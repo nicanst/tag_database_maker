@@ -1,0 +1,5 @@
+ANL_MOTOR_PV;processvarde;0;100;0;100;%
+ANL_MOTOR_AD;larmfärdrojning;;;;;5;min
+ANL_VALVE_PV;processvarde;0;100;0;100;%
+ANL_VALVE_AD;larmfordrojning;;;;;min
+ANL_VALVE_SP;borvärde;;;;;grader

@@ -1,0 +1,8 @@
+#Kommentar
+ANL_MOTOR;objekt1
+|PV;processvarde;0;10;0;100;%
+|PV;processvarde;0;10;0;100;%
+ANL_VALVE;objekt2
+ANL_VALVE2;objekt2
+ANL_MOTOR2;objekt1
+|PV;processvarde;0;10;0;100;%

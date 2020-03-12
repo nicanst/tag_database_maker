@@ -1,0 +1,3 @@
+#Kommentar
+ANL_MOTOR;objekt1
+ANL_VALVE;objekt2
