@@ -1,4 +1,4 @@
 #Taggprefix;Kommentar;Low range;High range;Low range;High range;Unit
-#TEST GIT
+#TEST GITTEST
 PV;processvarde;0;100;0;100;%
 AD;larmfärdrojning;;;;;5;min
